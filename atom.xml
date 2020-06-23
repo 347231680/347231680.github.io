@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://347231680.github.io</id>
-    <title>Gridea</title>
-    <updated>2020-06-23T13:06:27.374Z</updated>
+    <title>远忘的小博客</title>
+    <updated>2020-06-23T13:49:09.674Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://347231680.github.io"/>
     <link rel="self" href="https://347231680.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>因为从心底害怕自己不值得被爱，我们独来独往，然而就是因为独来独往，才让我们以为自己不值得被爱。有一天，你不知道是什么时候，你会驱车上路。有一天，你不知道是什么时候，你会遇到他（她）。你会被爱，因为你今生第一次真正不再孤单。你会选择不再孤单下去。</subtitle>
     <logo>https://347231680.github.io/images/avatar.png</logo>
     <icon>https://347231680.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <rights>All rights reserved 2020, 远忘的小博客</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://347231680.github.io/post/hello-gridea/</id>
